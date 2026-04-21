@@ -1,4 +1,4 @@
-# Hi, I'm Mauro Bueno | Founder of SOVERIS 👋
+# Hi, I'm Mauro Bueno | Co - Founder of SOVERIS 👋
 
 ### 🏛️ AI Solutions Architect & Agentic Workflow Expert
 I specialize in designing and orchestrating high-fidelity **AI Agent ecosystems**. My mission is to bridge the gap between complex LLM logic and intuitive, professional visual architecture.
