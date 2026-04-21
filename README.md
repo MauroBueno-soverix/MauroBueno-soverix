@@ -7,7 +7,6 @@ I specialize in designing and orchestrating high-fidelity **AI Agent ecosystems*
 
 ### 🛠️ Featured Projects & Products
 - **[Agent BOB](https://github.com/MauroBueno-soverix/agent_BOB)**: My flagship visual orchestration engine. A professional, monotone blueprint tool for AI Agent workflows. (V0.2.0 LIVE! 🚀)
-- **[Sibaritas Club 93 Agent](https://github.com/MauroBueno-soverix/joyeriaeldorado)**: Specialized conversational AI for premium consultation in the luxury sector.
 
 ### 🔭 Current Focus
 - **Autonomous Multi-Agent Systems**: Designing resilient communication protocols between independent agents.
